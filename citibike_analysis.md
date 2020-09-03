@@ -1,0 +1,18 @@
+# NYC Citi Bike Analysis 
+Analyzing NYC Citi Bike Data for Des Moines business proposal
+## Number of McDonalds as a Factor for Bike Density:  
+In order to plan for a successful rollout of a bike sharing program in Des Moines we need to consider what drives bike sharing density in New York City. One hypothesis could be the number of McDonalds in NYC could be popular stopping and starting places. Looking at page 1 of our Tabelau Story ([link to dashboard](https://public.tableau.com/profile/david.phipps#!/vizhome/module_15990898108780/BikeSharingProgramDesMoines?publish=yes "link to dashboard")), we can see that Des Monies has a total of 11 McDonalds. Jumping to the next slide we can see that NYC also has a total of 11 McDonalds in our dataset so it will be a good comparison since both cities have 11. If we continue on in our Tableau story I have created some maps that show the popular stopping and starting points in NYC. It's important to note these since we would want to place our bike sharing kiosks in the more popular places in the city to maximize usage. One thing that becomes obvious when looking at both maps is the popular places to stop/start in NYC are outside of any McDonalds location besides a small sprinkling in the south. So what could be driving most of the bike density to mostly upper and lower Manhattan in NYC? 
+
+## Number of Parks influencing Bike Density
+Taking a look again at our Tableau story its obvious that most bike congestion is around Manhattan parks (Washington Square Park, Tompkins Square Park, Central Park). This would make sense because people would have more space to roam on a bike vs having to drive on the street and compete with traffic.  Washington Square Park boasts of having numerous mountain biking trails https://www.nycgovparks.org/facilities/bikeways . Madison Square Park has been a champion of the arts and holds many public exhibitions throughout the year https://www.madisonsquarepark.org/mad-sq-art. One of the jewels of NYC's parks is Central Park which hosts a 6.1 mile path around the park and showcases different parts of the city [link here](https://www.citibikenyc.com/rides/central-park-full-loop#:~:text=The%20Central%20Park%20Full%20Loop,vary%20throughout%20the%20800%20acres. "link here").  
+
+## Parks in Des Moines
+Since it seems clear from the NY Citi Bike data that parks influence where the more popular bike kiosks are we should investigate the amount of parks in Des Moines. Taking a gander at the official City of Des Moines website they disclose having 63 miles of paved trails and over 18 miles of soft trails ([Des Moines Trails](https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php)). Some of these trails are located at some of Des Moines most popular parks including Ewing Park, Grandview Park and Greenwood Park. With the wealth of trails and parks Des Monies has to offer it would be a great money making opportunity to install kiosks around these locations. 
+
+## Average Trip Duration
+Generally speaking, we can see from the "Average Trip Duration" slide on our Tableau Story that folks born in more recent years tend to take longer trips. I've included some Des Moines census data as an additional slide and we can see that 24.5% of the population is over 18. This number should provides us with a good size customer base to support our bike sharing program. 
+
+## Conclusion
+The NYC Citi Bike sharing program is driven more by parks than its locations to McDonalds. Des Moines has an abundance of riches when it comes to the availability of parks and trails. We can exploit these for a new bike sharing venture and can easily be sustained by a young vibrant customer base. 
+
+
